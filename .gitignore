@@ -4,7 +4,6 @@ data/
 # Outputs
 results/
 runs/
-logs/
 
 # Scratch
 scratch/
