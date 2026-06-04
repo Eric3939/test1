@@ -1,12 +1,12 @@
 # Data
-data/
+/data/
 
 # Outputs
-results/
-runs/
+/results/
+/runs/
 
 # Scratch
-scratch/
+/scratch/
 
 
 # macOS
